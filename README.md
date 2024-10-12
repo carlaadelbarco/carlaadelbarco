@@ -9,7 +9,7 @@ Welcome to my GitHub!
 📍 Based in Madrid.
 
 - Check out my <a href="https://carlaadelbarco.github.io"> website </a> to learn more about me. Work in progress...
-- Explore my <a href="www.linkedin.com/in/carla-alvarez-del-barco"> LinkedIn </a> for more details about my professional experience and skills.
+- Explore my <a href="https://www.linkedin.com/in/carla-alvarez-del-barco/"> LinkedIn </a> for more details about my professional experience and skills.
 
 ### 💼 Experience
 
